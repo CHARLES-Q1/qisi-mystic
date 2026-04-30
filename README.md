@@ -19,6 +19,7 @@
 - **osmnx**: osmnx 可以下载、建模、分析和可视化街道网络和其他地理空间特征，直接涉及到地
 - **networkx**: NetworkX是专门用于社会网络分析的库，可以进行网络建模、分析和可视化。
 - **nltk**: NLTK作为Natural Language Toolkit的首字母缩写，是一个
+- **graphviz**: graphviz是一个简单的Python接口，用于Graphviz的可视化工具，
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
