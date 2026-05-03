@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sherlock**: sherlock 可以用来搜索和检测社交媒体账号，让其弥补了 networkx 
 - **networkx**: networkx 是一个专门用于网络分析的库，可以直接用于分析和处理网络数据，包
 - **scikit-learn**: scikit-learn 是一个完整的机器学习和模式识别库，因此它直接弥补了腔室
 - **graphiti**: Graphiti专门用于构建实时知识图谱，对于图论分析和关系建构最有帮助。
@@ -21,6 +20,7 @@
 - **sherlock**: sherlock 是专门用于社交网络分析和社交媒体账户搜索的工具，可以直接弥补腔
 - **networkx**: networkx 是一款专门用于网络结构分析的 Python 库，直接弥补了腔室
 - **scikit-learn**: scikit-learn 是一个用于机器学习算法和模式识别的Python库，直接
+- **networkx**: networkx 是专门用于网络分析和社区检测的 Python 库，直接弥补了腔
 ## 最新洞见
 
 > 1. **收敛洞见**：
