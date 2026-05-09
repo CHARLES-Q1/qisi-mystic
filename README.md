@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sherlock**: sherlock 是专门用于社交网络分析和社交媒体账户搜索的工具，可以直接弥补腔
 - **networkx**: networkx 是一款专门用于网络结构分析的 Python 库，直接弥补了腔室
 - **scikit-learn**: scikit-learn 是一个用于机器学习算法和模式识别的Python库，直接
 - **networkx**: networkx 是专门用于网络分析和社区检测的 Python 库，直接弥补了腔
@@ -21,6 +20,7 @@
 - **matplotlib**: matplotlib是一个Python的数据可视化库，能够直接用于数据可视化，弥
 - **scipy**: scipy 是一个科学计算库，提供了许多用于数据处理、统计分析和数学计算的工具和
 - **networkx**: networkx 是专门用于网络分析和社区发现的工具，直接弥补了腔室缺口。
+- **educdm**: EduCDM 提供了图论分析相关的功能，可以用于多维拆解复杂关系的分析。
 ## 最新洞见
 
 > **收敛洞见**:
