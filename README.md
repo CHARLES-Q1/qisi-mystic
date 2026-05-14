@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scipy**: scipy是专门用于数值计算和统计分析的工具集，直接弥补了腔室缺口。
 - **city2graph**: city2graph 可以将地理空间关系转换为图，这与腔室缺口的要求最为接近，能
 - **scikit-learn**: scikit-learn 是一个用于机器学习模型的构建和优化的库，直接弥补了腔室
 - **torch**: PyTorch 是一个强大的深度学习框架，可以用于 tensors 和动态神经网
@@ -20,6 +19,7 @@
 - **networkx**: networkx 是专门用于复杂网络分析和可视化的工具，直接弥补了腔室缺口。
 - **osmnx**: osmnx 提供了下载、建模、分析和可视化街区网络和其他地理空间特征的功能，直接
 - **scikit-learn**: scikit-learn 是一个专门用于机器学习和模式识别的工具包，有大量预构建
+- **torch**: pytorch 是一个强大的深度学习框架，可以用于图论和网络分析中的计算，弥补了
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
