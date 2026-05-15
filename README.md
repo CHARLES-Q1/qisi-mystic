@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **torch**: PyTorch 是一个强大的深度学习框架，可以用于 tensors 和动态神经网
 - **nltk**: NLTK 是一个专门用于自然语言处理和情感分析的工具包，直接弥补了腔室缺口。
 - **graphviz**: graphviz是一个简单的Python接口，用于Graphviz的可视化，能够
 - **networkx**: networkx 是专门用于复杂网络分析和可视化的工具，直接弥补了腔室缺口。
@@ -21,6 +20,7 @@
 - **graphviz**: graphviz是一个简单的Python接口，用于Graphviz，它可以帮助可
 - **scipy**: scipy 是一个广泛使用的科学计算库，提供了大量的统计和信号处理功能，可以直接
 - **wordcloud**: Wordcloud是用于数据可视化和模式识别的工具，可以帮助用户生成词云图，展示
+- **hypergraphx**: hypergraphx 是一个开源的 Python 库，专门用于高阶网络分析，可
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
