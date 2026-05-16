@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **graphviz**: graphviz是一个简单的Python接口，用于Graphviz的可视化，能够
 - **networkx**: networkx 是专门用于复杂网络分析和可视化的工具，直接弥补了腔室缺口。
 - **osmnx**: osmnx 提供了下载、建模、分析和可视化街区网络和其他地理空间特征的功能，直接
 - **scikit-learn**: scikit-learn 是一个专门用于机器学习和模式识别的工具包，有大量预构建
@@ -21,6 +20,7 @@
 - **wordcloud**: Wordcloud是用于数据可视化和模式识别的工具，可以帮助用户生成词云图，展示
 - **hypergraphx**: hypergraphx 是一个开源的 Python 库，专门用于高阶网络分析，可
 - **nltk**: NLTK是专门用于自然语言处理的工具库，直接弥补了腔室缺口。
+- **stylecloud**: stylecloud 是一个 Python 包，可以生成风格化的词云，包括渐变和
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
