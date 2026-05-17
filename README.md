@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **torch**: pytorch 是一个强大的深度学习框架，可以用于图论和网络分析中的计算，弥补了
 - **graphviz**: graphviz是一个简单的Python接口，用于Graphviz，它可以帮助可
 - **scipy**: scipy 是一个广泛使用的科学计算库，提供了大量的统计和信号处理功能，可以直接
 - **wordcloud**: Wordcloud是用于数据可视化和模式识别的工具，可以帮助用户生成词云图，展示
@@ -21,6 +20,7 @@
 - **networkx**: Networkx 是一个强大的 Python 库，用于创建、操纵和分析复杂网络，
 - **graphviz**: Graphviz是一个成熟的工具，能够将复杂的关系网络化，且其简单的Python
 - **nltk**: NLTK是最直接的自然语言处理工具，能弥补腔室缺口。
+- **scikit-optimize**: Scikit-optimize 提供了模型驱动的优化方法和敏感度分析功能，直接弥
 ## 最新洞见
 
 > **收敛洞见**
