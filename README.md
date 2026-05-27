@@ -19,6 +19,7 @@
 - **city2graph**: city2graph 是专门用于将地理空间关系转换为图的工具，可以直接用于图论和
 - **networkx**: networkx 是一个专门用于社会网络分析的库，提供了许多实用的功能，包括图的
 - **networkx**: NetworkX 提供了强大的社交网络分析和模式识别功能，包括社区检测、网络中心
+- **geopy**: geopy 是一个 Python 的地理编码库，可以用来进行地理位置和经纬度之间
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
