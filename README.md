@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **transformers**: transformers库提供了多种文本处理工具和模型，可以用于文本模式的可视化
 - **transformers**: transformers 是一个用于提升提示词工程能力的工具包，能够帮助突破模型
 - **geopy**: geopy 是一个 Python的地理编码库，能将地址转换为经纬度坐标，非常适合
 - **transformers**: transformers是当前最流行和最强大的自然语言处理框架之一，能够直接用于
@@ -20,6 +19,7 @@
 - **networkx**: networkx 是一个专门用于社会网络分析的库，提供了许多实用的功能，包括图的
 - **networkx**: NetworkX 提供了强大的社交网络分析和模式识别功能，包括社区检测、网络中心
 - **geopy**: geopy 是一个 Python 的地理编码库，可以用来进行地理位置和经纬度之间
+- **graphviz**: graphviz是一个简单的Python接口，用于与Graphviz交互，能够有
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
