@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scipy**: SciPy库提供了统计分析和概率计算等功能，可以直接弥补信息不对称下的统计分析和
 - **sherlock**: sherlock 是专门用于社交媒体帐户搜索的工具，可以直接弥补腔室缺口的需求。
 - **statsmodels**: statsmodels 是一个专门用于统计模型和参数训练的工具库，直接弥补了腔室
 - **transformers**: Transformers库提供了大量预训练的语言模型，可以直接用于提高提示词工程
@@ -19,6 +18,7 @@
 - **nltk**: NLTK（Natural Language Toolkit）是最直接和最广泛使用
 - **yfinance**: yfinance 直接用于获取实盘数据，因此最能直接弥补这个缺口。
 - **lm-format-enforcer**: lm-format-enforcer 专注于输出格式的验证，包含正则表达式的模式
+- **scikit-learn**: scikit-learn是Python中最为流行的机器学习工具包之一，提供了大量
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
@@ -29,4 +29,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-08-04*
+*自动更新 · 2026-08-05*
