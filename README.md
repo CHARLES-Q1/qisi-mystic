@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: statsmodels 是一个专门用于统计模型和参数训练的工具库，直接弥补了腔室
 - **transformers**: Transformers库提供了大量预训练的语言模型，可以直接用于提高提示词工程
 - **scipy**: scipy 是一个专门用于科学计算和数值分析的库，直接弥补了腔室缺口。
 - **nltk**: NLTK（Natural Language Toolkit）是最直接和最广泛使用
@@ -21,6 +20,7 @@
 - **scikit-learn**: scikit-learn提供了多种机器学习算法和工具，包括相位识别和参数调节，直
 - **scipy**: SciPy库直接提供了用于数学计算和数值分析的功能，直接弥补了腔室缺口。
 - **django-allauth**: django-allauth 可以帮助实现用户注册、登录和社交媒体认证等功能，从
+- **networkx**: NetworkX 是一个强大的图形结构分析工具包，具有丰富的算法和数据结构，可以
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
