@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **nltk**: NLTK（Natural Language Toolkit）是最直接和最广泛使用
 - **yfinance**: yfinance 直接用于获取实盘数据，因此最能直接弥补这个缺口。
 - **lm-format-enforcer**: lm-format-enforcer 专注于输出格式的验证，包含正则表达式的模式
 - **scikit-learn**: scikit-learn是Python中最为流行的机器学习工具包之一，提供了大量
