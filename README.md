@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn是Python中最为流行的机器学习工具包之一，提供了大量
 - **scikit-learn**: scikit-learn提供了多种机器学习算法和工具，包括相位识别和参数调节，直
 - **scipy**: SciPy库直接提供了用于数学计算和数值分析的功能，直接弥补了腔室缺口。
 - **django-allauth**: django-allauth 可以帮助实现用户注册、登录和社交媒体认证等功能，从
@@ -20,6 +19,7 @@
 - **stylecloud**: stylecloud 是一个专门用于生成风格化词云图的工具，包括渐变效果，可以直
 - **nltk**: nltk 是一个直接针对 NLTK 的工具包，可以直接弥补腔室缺口。
 - **scikit-learn**: scikit-learn 是一个综合性的机器学习库，内置了多种算法和工具，可以用
+- **textblob**: TextBlob提供了简单的语义分析功能，可以直接弥补情绪分析和情感识别所需的缺
 ## 最新洞见
 
 > **收敛洞见：**
