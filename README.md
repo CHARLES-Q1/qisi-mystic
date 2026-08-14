@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: NetworkX 是一个功能丰富的网络分析库，可以分析和可视化各种类型的网络结构
 - **graphviz**: graphviz 提供了一个简单的 Python 接口来使用 Graphviz，
 - **networkx**: networkx 是一个广泛使用的网络图分析库，直接支持图的创建、分析和可视化，
 - **scikit-learn**: scikit-learn 是一个机器学习和参数模型训练的库，直接弥补了腔室缺口。
@@ -20,6 +19,7 @@
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以直接用于
 - **luigi**: Luigi是一个用于构建复杂管道的批处理任务的 Python 模块，可以帮助网络
 - **yellowbrick**: yellowbrick 提供了强大的可视化工具用于模型选择和过度拟合检查，直接弥
+- **spacy**: spaCy 是一个工业级别的自然语言处理 (NLP) 库，提供了高效的文本分析能
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
