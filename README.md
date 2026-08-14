@@ -22,7 +22,7 @@
 - **spacy**: spaCy 是一个工业级别的自然语言处理 (NLP) 库，提供了高效的文本分析能
 ## 最新洞见
 
-> [Groq错误: Remote end closed connection without response]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
