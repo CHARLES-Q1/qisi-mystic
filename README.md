@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: networkx 是一个广泛使用的网络图分析库，直接支持图的创建、分析和可视化，
 - **scikit-learn**: scikit-learn 是一个机器学习和参数模型训练的库，直接弥补了腔室缺口。
 - **statsmodels**: statsmodels 提供了广泛的统计模型和经济学模型，包括回归分析和模型评估
 - **scikit-learn**: scikit-learn 是一个广泛使用的机器学习库，在 Python 中提供了
@@ -20,6 +19,7 @@
 - **yellowbrick**: yellowbrick 提供了强大的可视化工具用于模型选择和过度拟合检查，直接弥
 - **spacy**: spaCy 是一个工业级别的自然语言处理 (NLP) 库，提供了高效的文本分析能
 - **wordcloud**: stylecloud可以生成有.style的wordclouds，包括渐变和其他
+- **networkx**: NetworkX 是一个广泛使用的 Python 库，专门用于网络分析。它支持创
 ## 最新洞见
 
 > **收敛洞见**
