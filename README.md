@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: statsmodels 提供了广泛的统计模型和经济学模型，包括回归分析和模型评估
 - **scikit-learn**: scikit-learn 是一个广泛使用的机器学习库，在 Python 中提供了
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以直接用于
 - **luigi**: Luigi是一个用于构建复杂管道的批处理任务的 Python 模块，可以帮助网络
@@ -20,6 +19,7 @@
 - **wordcloud**: stylecloud可以生成有.style的wordclouds，包括渐变和其他
 - **networkx**: NetworkX 是一个广泛使用的 Python 库，专门用于网络分析。它支持创
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以用于构建
+- **statsmodels**: statsmodels 是专门用于统计模型的估计和检验的库，因此最能直接弥补腔室
 ## 最新洞见
 
 > **收敛洞见:**
