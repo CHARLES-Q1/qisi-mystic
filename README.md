@@ -22,7 +22,7 @@
 - **statsmodels**: statsmodels 是专门用于统计模型的估计和检验的库，因此最能直接弥补腔室
 ## 最新洞见
 
-> [Groq错误: HTTP Error 403: Forbidden]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
