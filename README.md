@@ -19,6 +19,7 @@
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以用于构建
 - **statsmodels**: statsmodels 是专门用于统计模型的估计和检验的库，因此最能直接弥补腔室
 - **sympy**: 直接提供符号运算与逻辑推理功能。
+- **polars-tsfresh**: 该包是 tsfresh 的 Polars 重新实现，直接提供与 tsfresh 
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
