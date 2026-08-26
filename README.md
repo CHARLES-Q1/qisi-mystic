@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn 是一个广泛使用的机器学习库，在 Python 中提供了
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以直接用于
 - **luigi**: Luigi是一个用于构建复杂管道的批处理任务的 Python 模块，可以帮助网络
 - **yellowbrick**: yellowbrick 提供了强大的可视化工具用于模型选择和过度拟合检查，直接弥
