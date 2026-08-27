@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **luigi**: Luigi是一个用于构建复杂管道的批处理任务的 Python 模块，可以帮助网络
 - **yellowbrick**: yellowbrick 提供了强大的可视化工具用于模型选择和过度拟合检查，直接弥
 - **spacy**: spaCy 是一个工业级别的自然语言处理 (NLP) 库，提供了高效的文本分析能
 - **wordcloud**: stylecloud可以生成有.style的wordclouds，包括渐变和其他
@@ -20,6 +19,7 @@
 - **statsmodels**: statsmodels 是专门用于统计模型的估计和检验的库，因此最能直接弥补腔室
 - **sympy**: 直接提供符号运算与逻辑推理功能。
 - **polars-tsfresh**: 该包是 tsfresh 的 Polars 重新实现，直接提供与 tsfresh 
+- **backtrader**: backtrader 本身支持模拟真实交易执行、设置滑点模型并可直接评估 WR 
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
