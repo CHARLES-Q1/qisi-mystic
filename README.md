@@ -22,7 +22,7 @@
 - **backtrader**: backtrader 本身支持模拟真实交易执行、设置滑点模型并可直接评估 WR 
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: Remote end closed connection without response]
 
 ## 关于Qisi
 
