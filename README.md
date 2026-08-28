@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **yellowbrick**: yellowbrick 提供了强大的可视化工具用于模型选择和过度拟合检查，直接弥
 - **spacy**: spaCy 是一个工业级别的自然语言处理 (NLP) 库，提供了高效的文本分析能
 - **wordcloud**: stylecloud可以生成有.style的wordclouds，包括渐变和其他
 - **networkx**: NetworkX 是一个广泛使用的 Python 库，专门用于网络分析。它支持创
@@ -20,6 +19,7 @@
 - **sympy**: 直接提供符号运算与逻辑推理功能。
 - **polars-tsfresh**: 该包是 tsfresh 的 Polars 重新实现，直接提供与 tsfresh 
 - **backtrader**: backtrader 本身支持模拟真实交易执行、设置滑点模型并可直接评估 WR 
+- **sympy**: sympy 是专门用于符号计算与模式分析的完整计算机代数系统，最能直接弥补该缺口
 ## 最新洞见
 
 > [Groq错误: Remote end closed connection without response]
