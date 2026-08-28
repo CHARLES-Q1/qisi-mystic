@@ -22,7 +22,7 @@
 - **sympy**: sympy 是专门用于符号计算与模式分析的完整计算机代数系统，最能直接弥补该缺口
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: Remote end closed connection without response]
 
 ## 关于Qisi
 
