@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **wordcloud**: stylecloud可以生成有.style的wordclouds，包括渐变和其他
 - **networkx**: NetworkX 是一个广泛使用的 Python 库，专门用于网络分析。它支持创
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以用于构建
 - **statsmodels**: statsmodels 是专门用于统计模型的估计和检验的库，因此最能直接弥补腔室
@@ -20,6 +19,7 @@
 - **backtrader**: backtrader 本身支持模拟真实交易执行、设置滑点模型并可直接评估 WR 
 - **sympy**: sympy 是专门用于符号计算与模式分析的完整计算机代数系统，最能直接弥补该缺口
 - **networkx**: 直接提供构建和分析信任网络图所需的完整图结构与算法。
+- **ruptures**: ruptures 是专门用于 Python 中的变换点（change‑point
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
