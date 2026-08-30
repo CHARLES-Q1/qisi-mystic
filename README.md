@@ -20,6 +20,10 @@
 - **networkx**: 直接提供构建和分析信任网络图所需的完整图结构与算法。
 - **ruptures**: ruptures 是专门用于 Python 中的变换点（change‑point
 - **sympy**: 提供完整的符号数学运算和表达式模式匹配功能，直接弥补该缺口。
+## 最新洞见
+
+> [Groq错误: HTTP Error 429: Too Many Requests]
+
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
