@@ -22,7 +22,7 @@
 - **polars-tsfresh**: 该包是对 tsfresh 的完整重实现，直接提供基于 Polars 的时间序列特
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
@@ -30,4 +30,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-09-05*
+*自动更新 · 2026-09-06*
