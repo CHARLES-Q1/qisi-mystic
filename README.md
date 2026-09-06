@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: statsmodels 是专门用于统计模型的估计和检验的库，因此最能直接弥补腔室
 - **sympy**: 直接提供符号运算与逻辑推理功能。
 - **polars-tsfresh**: 该包是 tsfresh 的 Polars 重新实现，直接提供与 tsfresh 
 - **backtrader**: backtrader 本身支持模拟真实交易执行、设置滑点模型并可直接评估 WR 
@@ -20,6 +19,7 @@
 - **ruptures**: ruptures 是专门用于 Python 中的变换点（change‑point
 - **sympy**: 提供完整的符号数学运算和表达式模式匹配功能，直接弥补该缺口。
 - **polars-tsfresh**: 该包是对 tsfresh 的完整重实现，直接提供基于 Polars 的时间序列特
+- **nltk**: NLTK 是专门用于文本模式识别、语义和符号意义分析的完整自然语言处理库，直接满
 ## 最新洞见
 
 > [Groq错误: HTTP Error 403: Forbidden]
