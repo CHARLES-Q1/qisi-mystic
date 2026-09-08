@@ -22,7 +22,7 @@
 - **nltk**: NLTK 是专门用于文本模式识别、语义和符号意义分析的完整自然语言处理库，直接满
 ## 最新洞见
 
-> [Groq错误: HTTP Error 403: Forbidden]
+> [Groq错误: <urlopen error [Errno 54] Connection reset by peer>]
 
 ## 关于Qisi
 
