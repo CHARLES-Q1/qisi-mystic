@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **backtrader**: backtrader 本身支持模拟真实交易执行、设置滑点模型并可直接评估 WR 
 - **sympy**: sympy 是专门用于符号计算与模式分析的完整计算机代数系统，最能直接弥补该缺口
 - **networkx**: 直接提供构建和分析信任网络图所需的完整图结构与算法。
 - **ruptures**: ruptures 是专门用于 Python 中的变换点（change‑point
@@ -19,6 +18,7 @@
 - **polars-tsfresh**: 该包是对 tsfresh 的完整重实现，直接提供基于 Polars 的时间序列特
 - **nltk**: NLTK 是专门用于文本模式识别、语义和符号意义分析的完整自然语言处理库，直接满
 - **networkx**: networkx 提供完整的图结构构建、边属性管理和多种网络分析算法，直接满足构
+- **scikit-learn**: 它本身就是用于机器学习模型构建和模式识别的完整库，最直接填补该缺口。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
