@@ -21,8 +21,7 @@
 - **scikit-learn**: 它本身就是用于机器学习模型构建和模式识别的完整库，最直接填补该缺口。
 ## 最新洞见
 
-> 稳定信念:  
-1. 
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
