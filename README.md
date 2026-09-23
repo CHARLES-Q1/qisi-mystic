@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: 直接提供构建和分析信任网络图所需的完整图结构与算法。
 - **ruptures**: ruptures 是专门用于 Python 中的变换点（change‑point
 - **sympy**: 提供完整的符号数学运算和表达式模式匹配功能，直接弥补该缺口。
 - **polars-tsfresh**: 该包是对 tsfresh 的完整重实现，直接提供基于 Polars 的时间序列特
@@ -19,6 +18,7 @@
 - **networkx**: networkx 提供完整的图结构构建、边属性管理和多种网络分析算法，直接满足构
 - **scikit-learn**: 它本身就是用于机器学习模型构建和模式识别的完整库，最直接填补该缺口。
 - **treys**: 提供快速的扑克手牌强度评估和对手牌型概率推断，直接满足需求。
+- **textblob**: TextBlob 本身即为轻量级文本处理库，专门支持情感分析、词性标注等文本风格
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
