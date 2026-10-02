@@ -21,7 +21,7 @@
 - **scikit-learn**: 提供交叉验证、正则化等功能，直接用于模型验证和防止过拟合。
 ## 最新洞见
 
-> [Groq错误: <urlopen error [Errno 8] nodename nor servname provided, or not known>]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
