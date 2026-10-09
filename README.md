@@ -19,6 +19,7 @@
 - **scikit-learn**: 提供丰富的模式识别和机器学习预测算法，易于使用，直接满足需求。
 - **tslearn**: 直接提供时间序列的模式识别、距离度量和聚类等功能，专为时间序列相似度分析设计。
 - **backtrader**: Backtrader 本身提供滑点模拟、订单执行控制以及实时风险管理等功能，能够
+- **textblob**: TextBlob 是专门为情感分析设计的 Pythonic 文本处理库，安装和使
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
