@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: networkx 提供完整的图结构构建、边属性管理和多种网络分析算法，直接满足构
 - **scikit-learn**: 它本身就是用于机器学习模型构建和模式识别的完整库，最直接填补该缺口。
 - **treys**: 提供快速的扑克手牌强度评估和对手牌型概率推断，直接满足需求。
 - **textblob**: TextBlob 本身即为轻量级文本处理库，专门支持情感分析、词性标注等文本风格
@@ -21,6 +20,7 @@
 - **backtrader**: Backtrader 本身提供滑点模拟、订单执行控制以及实时风险管理等功能，能够
 - **textblob**: TextBlob 是专门为情感分析设计的 Pythonic 文本处理库，安装和使
 - **scikit-learn**: 直接提供丰富的模式识别和特征分析算法，是填补该缺口的最佳工具。
+- **statsmodels**: statsmodels 是专门用于时间序列统计建模的成熟库，直接满足需求。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
