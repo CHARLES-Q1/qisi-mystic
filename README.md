@@ -23,7 +23,7 @@
 - **pygraphviz**: 直接提供 Python 接口调用 Graphviz，最适合绘制和分析心理象征结构
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>]
 
 ## 关于Qisi
 
