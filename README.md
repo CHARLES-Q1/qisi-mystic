@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: 提供丰富的模式识别和机器学习预测算法，易于使用，直接满足需求。
 - **tslearn**: 直接提供时间序列的模式识别、距离度量和聚类等功能，专为时间序列相似度分析设计。
 - **backtrader**: Backtrader 本身提供滑点模拟、订单执行控制以及实时风险管理等功能，能够
 - **textblob**: TextBlob 是专门为情感分析设计的 Pythonic 文本处理库，安装和使
@@ -21,6 +20,7 @@
 - **spacy**: spaCy 提供工业级的文本处理与符号模式匹配功能，能直接满足 NLP 与符号模
 - **networkx**: NetworkX 是最常用且功能完整的 Python 图分析库，专门用于构建、分
 - **pygraphviz**: 直接提供 Python 接口调用 Graphviz，最适合绘制和分析心理象征结构
+- **ccxt**: ccxt 是统一的交易所 API，支持超过100家加密交易所，可直接获取杠杆套利
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
