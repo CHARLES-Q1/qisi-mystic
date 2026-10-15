@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **backtrader**: Backtrader 本身提供滑点模拟、订单执行控制以及实时风险管理等功能，能够
 - **textblob**: TextBlob 是专门为情感分析设计的 Pythonic 文本处理库，安装和使
 - **scikit-learn**: 直接提供丰富的模式识别和特征分析算法，是填补该缺口的最佳工具。
 - **statsmodels**: statsmodels 是专门用于时间序列统计建模的成熟库，直接满足需求。
@@ -21,6 +20,7 @@
 - **pygraphviz**: 直接提供 Python 接口调用 Graphviz，最适合绘制和分析心理象征结构
 - **ccxt**: ccxt 是统一的交易所 API，支持超过100家加密交易所，可直接获取杠杆套利
 - **sympy**: 它是纯 Python 实现的计算机代数系统，专门用于符号模式识别和象征分析。
+- **sympy**: sympy 本身就是用于符号数学和模式推理分析的最成熟、最全面的 Python 
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
