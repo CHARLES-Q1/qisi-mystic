@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: statsmodels 是专门用于时间序列统计建模的成熟库，直接满足需求。
 - **textblob**: TextBlob 直接提供情感分析和主题抽取功能，最适合对2025年人类焦虑情绪
 - **spacy**: spaCy 提供工业级的文本处理与符号模式匹配功能，能直接满足 NLP 与符号模
 - **networkx**: NetworkX 是最常用且功能完整的 Python 图分析库，专门用于构建、分
@@ -20,6 +19,7 @@
 - **sympy**: 它是纯 Python 实现的计算机代数系统，专门用于符号模式识别和象征分析。
 - **sympy**: sympy 本身就是用于符号数学和模式推理分析的最成熟、最全面的 Python 
 - **nltk**: NLTK 提供完整的文本模式识别和象征分析工具，正好满足需求。
+- **sympy**: sympy 本身就是用于符号表达和模式识别的最适合工具。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
