@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **textblob**: TextBlob 直接提供情感分析和主题抽取功能，最适合对2025年人类焦虑情绪
 - **spacy**: spaCy 提供工业级的文本处理与符号模式匹配功能，能直接满足 NLP 与符号模
 - **networkx**: NetworkX 是最常用且功能完整的 Python 图分析库，专门用于构建、分
 - **pygraphviz**: 直接提供 Python 接口调用 Graphviz，最适合绘制和分析心理象征结构
