@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: NetworkX 是最常用且功能完整的 Python 图分析库，专门用于构建、分
 - **pygraphviz**: 直接提供 Python 接口调用 Graphviz，最适合绘制和分析心理象征结构
 - **ccxt**: ccxt 是统一的交易所 API，支持超过100家加密交易所，可直接获取杠杆套利
 - **sympy**: 它是纯 Python 实现的计算机代数系统，专门用于符号模式识别和象征分析。
@@ -19,6 +18,7 @@
 - **nltk**: NLTK 提供完整的文本模式识别和象征分析工具，正好满足需求。
 - **sympy**: sympy 本身就是用于符号表达和模式识别的最适合工具。
 - **networkx**: NetworkX 提供了完整的图结构构建、属性管理以及多维关系网络分析的核心功能
+- **sympy**: SymPy 是专门用于符号计算的 Python 库，能够直接实现状态模型和能量流
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
