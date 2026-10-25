@@ -20,7 +20,7 @@
 - **statsmodels**: 它专门提供时间序列与回归的计量经济学模型，直接满足位置决定视角的定量推理需求。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
