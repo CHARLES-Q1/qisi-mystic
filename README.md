@@ -19,6 +19,7 @@
 - **scikit-learn**: scikit-learn 提供丰富的特征提取、聚类和分类算法，直接用于艺术作品的
 - **sympy**: 它是专门用于符号数学和模式识别的 Python 计算代数系统，直接填补了该缺口。
 - **dowhy**: DoWhy 是专门用于因果推断的库，支持显式模型构建和二阶效应分析，最能直接弥补
+- **python-patterns**: 该库提供丰富的 Python 设计模式与实现示例，可帮助快速构建基于 OpenC
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
