@@ -22,7 +22,7 @@
 - **scikit-learn**: 直接提供机器学习模型与特征提取工具，可用于分析沉默的潜在意义。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
 
 ## 关于Qisi
 
