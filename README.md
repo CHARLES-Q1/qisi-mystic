@@ -11,13 +11,13 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **transformers**: 该包提供了 Hugging Face Transformers 框架，可直接用于
 - **scikit-learn**: 直接提供机器学习模型与特征提取工具，可用于分析沉默的潜在意义。
 - **scikit-image**: scikit-image 是专门用于图像处理、特征提取和空间关系分析的成熟 Py
 - **sympy**: sympy 是最成熟、功能最完整的 Python 计算机代数系统，专门用于符号推
 - **sympy**: SymPy 是专门用于符号推理与模式识别的计算机代数系统，能直接满足对抽象结构的
 - **scikit-learn**: scikit-learn 提供丰富的机器学习模型和评估工具，能够快速构建并比较模
 - **sympy**: 它是纯 Python 实现的计算机代数系统，专门用于符号数学运算和模式识别。
+- **scikit-learn**: 直接提供丰富的机器学习算法和工具，可用于模式识别与特征分析的建模。
 ## 最新洞见
 
 > [Groq错误: The read operation timed out]
