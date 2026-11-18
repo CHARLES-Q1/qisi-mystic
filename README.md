@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **brainflow**: BrainFlowsIntoVRChat 直接使用 BrainFlow 代码来获
 - **sympy**: 它是纯 Python 实现的计算机代数系统，专门用于符号表达式解析与模式抽象。
 - **sympy**: sympy 是专门用于符号推理和高阶数学建模的纯 Python 计算机代数系统，
 - **sympy**: SymPy 是专门用于符号数学与模式推理的 Python 库，能够直接满足分析制
