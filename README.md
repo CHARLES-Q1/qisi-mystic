@@ -19,6 +19,7 @@
 - **geopandas**: 它专门用于读取、操作和分析空间几何数据，是处理空间位置和视角分析的直接工具。
 - **scikit-learn**: scikit‑learn 提供完整的机器学习模型构建、训练与评估工具，直接满足识
 - **networkx**: networkx 是通用的 Python 图分析库，能直接构建关系网络、计算边缘
+- **scikit-learn**: scikit‑learn 提供完整的模型评估工具（如交叉验证、学习曲线、网格搜索
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
