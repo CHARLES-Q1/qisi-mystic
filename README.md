@@ -20,6 +20,7 @@
 - **scikit-learn**: scikit‑learn 提供完整的机器学习模型构建、训练与评估工具，直接满足识
 - **networkx**: networkx 是通用的 Python 图分析库，能直接构建关系网络、计算边缘
 - **scikit-learn**: scikit‑learn 提供完整的模型评估工具（如交叉验证、学习曲线、网格搜索
+- **tiktoken**: 该库专门用于 OpenAI 模型的 BPE 分词，可直接计算文本的 token 
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
